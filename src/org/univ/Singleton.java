@@ -37,4 +37,8 @@ public class Singleton {
 		c.collegeId();      c.collegeDeen();
 		
 	}
+	private void sample() {
+		// TODO Auto-generated method stub
+
+	}
 }
